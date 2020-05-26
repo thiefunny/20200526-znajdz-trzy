@@ -1,0 +1,24 @@
+.none {
+    display: none;
+}
+
+.brawo {
+    color: red
+}
+
+.trzy:hover {
+    color: green
+}
+
+div {
+    margin: auto;
+    width: 220px;
+    /* border: solid; */
+} 
+
+button {
+    display:inline-block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
